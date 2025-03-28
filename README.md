@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a React Engineer passionate about building modern, high-performance web applications. I specialize in:<br>🚀 React.js & Next.js – Crafting fast, scalable, and interactive UIs<br>🎨 Tailwind CSS & UI Libraries – Designing sleek, responsive interfaces<br>🔗 Backend Integration – Connecting REST APIs seamlessly<br><br>What I’m Working On:<br>Developing innovative projects that push the boundaries of frontend development.<br><br>Learning and implementing the latest web technologies.</p>
+<p align="left">I'm a Software Engineer passionate about building modern, high-performance web applications. I specialize in:<br>🚀 React.js & Next.js – Crafting fast, scalable, and interactive UIs<br>🎨 Tailwind CSS & UI Libraries – Designing sleek, responsive interfaces<br>🔗 Backend Integration – Connecting REST APIs seamlessly<br><br>What I’m Working On:<br>Developing innovative projects that push the boundaries of frontend development.<br><br>Learning and implementing the latest web technologies.</p>
 
 ###
 
